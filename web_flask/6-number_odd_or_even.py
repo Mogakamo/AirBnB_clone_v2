@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """import flask"""
-from flask imort Flask, render_template
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
